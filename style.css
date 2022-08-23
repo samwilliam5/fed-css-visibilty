@@ -1,0 +1,15 @@
+.visible p{
+    visibility: visible;
+}
+.hidden p{
+    visibility: hidden;
+}
+.collapse p{
+    visibility: collapse;
+}
+.intial p{
+    visibility: initial;
+} 
+.inheritant p{
+    visibility: inherit;
+}
